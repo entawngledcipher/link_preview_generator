@@ -7,7 +7,6 @@ Gem::Specification.new do |lp|
   lp.author      = "Dalvir Suri"
   lp.email       = 'dalvir30@gmail.com'
   lp.files       = ["lib/link_preview_generator.rb"]
-  lp.platform    = "Gem::Platform::RUBY"
   lp.license     = "MIT"
   lp.homepage    = "http://rubygems.org/gems/link_preview_generator"
 
